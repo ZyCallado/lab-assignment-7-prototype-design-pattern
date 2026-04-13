@@ -16,3 +16,6 @@ Opening Spreadsheet Document: sales_data_q1.xlsx (1000 rows, 20 columns) <br>
 Type: Spreadsheet, Name: sales_data_q1.xlsx, Rows: 1000, Columns: 20 <br>
 
 Opening PDF Document: summary_report.pdf by Acme Corp (30 pages)
+
+## UML Class Diagram
+<img width="1054" height="507" alt="image" src="https://github.com/user-attachments/assets/bf696ec4-e7aa-4f67-b22f-0a77fbbcde1e" />
